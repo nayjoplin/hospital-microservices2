@@ -1,4 +1,15 @@
-# 🏥 Sistema de Gerenciamento Hospitalar
+<div align="center">
+
+![Hospital Microservices](assets/cover.svg)
+
+# Hospital Microservices
+
+Sistema de gerenciamento hospitalar com arquitetura baseada em microsserviços
+
+**Projeto backend Java**
+
+</div>
+
 
 Sistema completo de gerenciamento hospitalar baseado em arquitetura de microsserviços, desenvolvido com Java 21 e Spring Boot.
 
